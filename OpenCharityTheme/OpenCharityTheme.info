@@ -1,0 +1,46 @@
+name = Open charity Theme
+description = Open charity Official website theme
+core = 7.x
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Regions
+;;;;;;;;;;;;;;;;;;;;;
+
+regions[navigation]     = 'Navigation'
+regions[header]         = 'Page splash'
+regions[highlighted]    = 'Highlighted'
+regions[help]           = 'Help'
+regions[content]        = 'Content'
+regions[sidebar_first]  = 'Primary'
+regions[sidebar_second] = 'Secondary'
+regions[footerl]        = 'Footer left'
+regions[footerc]        = 'Footer center'
+regions[footerr]        = 'Footer right'
+regions[page_top]       = 'Page top'
+regions[page_bottom]    = 'Page bottom'
+regions[contact]        = 'Contact'
+regions[colum1]         = 'Colum 1'
+regions[colum2]         = 'Colum 2'
+regions[colum3]         = 'Colum 3'
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Stylesheets
+;;;;;;;;;;;;;;;;;;;;;
+
+stylesheets[all][] = css/styles.css
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Javascript
+;;;;;;;;;;;;;;;;;;;;;
+
+scripts[] = js/script.js
+
+
+; Information added by Drupal.org packaging script on 2015-03-10
+version = "7.x-1.0"
+core = "7.x"
+project = "bootstrap_agency"
+datestamp = "1426026782"
+

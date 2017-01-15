@@ -1,0 +1,734 @@
+/* default style start here */ 
+a, p, li, h1, h2, h3, h4, h5, h6, span, strong{
+    font-family: 'Lato', sans-serif;
+}
+
+a {
+    font-family: 'Lato', sans-serif;
+    list-style-type: none;
+}
+
+body{
+    margin: 0px !important;
+}
+
+
+
+/* header style start here */ 
+section #block-system-powered-by {
+    display: none;
+}
+
+.topHeaderRapper {
+    padding-top: 5px;
+}
+
+#banner {
+    height: 430px;
+    width: 100%;
+}
+
+.bannerHeading {
+    font-family: 'Lato', sans-serif;
+    color: #fff;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+.bannerText {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    color: #fff;
+    width: 600px;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+#top {
+    width: 1170px;
+    margin: auto;
+    height: 60px;
+}
+
+.name.navbar-brand {
+    display: none;
+}
+
+#logo {
+    float: left;
+}
+
+.mainMenu {
+    float: right;
+}
+
+li.menuJoin {
+    border: 2px solid #5bbfc3;
+    padding: 10px;
+}
+
+a.last {
+    color: #5bbfc3;
+    margin-left: 10px;
+}
+
+
+.mainMenu ul li a {
+    font-size: 15px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    color: #000;
+}
+
+
+.mainMenu ul li {
+    display: inline-block;
+    list-style-type: none;
+    padding-right: 20px;
+}
+
+/* header style end here */ 
+
+
+/* banner style start here */ 
+.banner{
+  background: url(../images/banner.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+  margin-top: 20px;   
+}
+
+.section1.dateSection {
+    height: 120px;
+    background: #f1f2f5;
+}
+
+.registerBtn {
+    background-color: #5dc1c4;
+    padding: 13px;
+    float: right;
+    color: #fff;
+    font-size: 13px;
+    border: 1px solid #5dc;
+}
+
+.HextEventSection{
+    width: 50%;
+    float: left;
+}
+
+.registerSection{
+    width: 50%;
+    float: right;
+    margin-top: 6px;
+}
+
+
+.nextEvent {
+    color: #55bdc1;
+    font-weight: bold;
+}
+
+.EventSectionDate {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.EventSectionTime {
+    font-weight: bold;
+}
+
+.dateSectionWrapper {
+    padding-top: 30px;
+    width: 1170px;
+    margin: auto;
+}
+
+
+/* banner style end here */ 
+
+
+/* get involved section style start here */ 
+.groupSection {
+    width: 1170px;
+    margin: auto;
+    height: 300px;
+    margin-top: 50px;
+}
+
+.headingTitlegetInvolved h2 {
+    text-transform: uppercase;
+    text-align: center;
+    color: #2C1C1C;
+}
+
+.sectionWthStyle{
+    width: 300px;
+    margin: auto;
+}
+
+.meetupSection {
+    height: 300px;
+}
+
+
+.slackSection{
+    height: 300px; 
+}
+
+.wikiSection{
+    height: 300px;
+}
+
+.groupSectionInRapper {
+    width: 350px;
+}
+
+.groupSectionInRapper {
+    width: 390px;
+    float: left;
+}
+
+.meetupLogo {
+    background: url(../images/meetup.png) no-repeat;
+    height: 100px;
+    background-position: center; 
+}
+
+.slackLogo {
+    background: url(../images/slack.png) no-repeat;
+    height: 100px;
+    background-position: center; 
+}
+
+.wikiLogo {
+    background: url(../images/collaboration.png) no-repeat;
+    height: 100px;
+    background-position: center; 
+}
+
+.GetInvolvedConent h2{
+    text-align: center;
+    color: #5f5a5a;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.GetInvolvedConent p{
+    text-align: center;
+    color: #5f5a5a;
+    font-weight: normal;
+}
+
+.getInvolvedSectionBtn {
+    border: 2px solid #5DC1C4;
+    color: #5DC1C4;
+    padding: 10px;
+    font-size: 15px;
+    text-transform: uppercase;
+    background: #fff;
+    text-decoration: none;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.ButtonMeetup {
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* Mission style start here */ 
+
+.section3.missionMember {
+    height: 800px;
+    background: #f1f2f5;
+}
+
+.ourMission h2 {
+    padding-top: 20px;
+}
+
+.ourMember{
+    height:300px;
+}
+
+.ourMemberLogo {
+    width: 220px;
+    height: 100px;
+    float: left;
+    margin: 7px;
+}
+
+.ourMember {
+    width: 1170px;
+    margin: auto;
+    height: 300px;
+    margin-top: 50px;
+}
+
+.headingTitlegetInvolved p{
+    text-align: center;
+}
+
+.MissionStrong{
+    text-align: center;
+}
+
+.MissionRapper{
+    width: 1170px;
+    margin: auto;
+}
+
+.missionMemberRapper {
+    height: 400px;
+}
+
+.missionSec {
+    width: 390px;
+    height: 150px;
+    float: left;    
+}
+
+.missiondiv {
+    width: 350px;
+    background: #fff;
+    height: 150px;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: -40px;
+}
+
+.ourMissionSection {
+    margin-top: 60px;
+}
+
+.missionCircle {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    background: #fff;
+    border-radius: 70px;
+}
+
+.missionCircleInner {
+    height: 80px;
+    width: 80px;
+    background-color: #53c0d6;
+    position: absolute;
+    border-radius: 50px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.MemberLogo {
+    height: 100px;
+}
+
+.missionCircleInnerImage1 {
+   width:100%; 
+   height:100%; 
+   background:url(../images/charity.png) center center no-repeat; 
+}
+
+.missionCircleInnerImage2 {
+   width:100%; 
+   height:100%; 
+   background:url(../images/togther.png) center center no-repeat; 
+}
+
+.missionCircleInnerImage3 {
+   width:100%; 
+   height:100%; 
+   background:url(../images/encourage.png) center center no-repeat; 
+}
+
+
+.logoCancerResearch{
+   width:100%; 
+   height:100%; 
+   background:url(../images/cancerReaseach.png) center center no-repeat; 
+}
+
+.logoCompuporp{
+   width:100%; 
+   height:100%; 
+   background:url(../images/compuporp.png) center center no-repeat; 
+}
+
+.logoKop{
+   width:100%; 
+   height:100%; 
+   background:url(../images/kop.png) center center no-repeat; 
+}
+
+.logoZing{
+   width:100%; 
+   height:100%; 
+   background:url(../images/zing.png) center center no-repeat; 
+}
+
+.logoComicRelief{
+   width:100%; 
+   height:100%; 
+   background:url(../images/comicRelief.png) center center no-repeat; 
+}
+
+.missionSecContentTitle {
+    padding-top: 30px;
+}
+
+.missionSecContentTitle p {
+    text-align: center;
+    color: #53c0d6;
+    font-size: 17px;
+}
+
+.missionSecContent p{
+    text-align: center;
+    padding: 10px;
+}
+
+/* Mission style end here */ 
+
+/* Blog style start here */ 
+
+.blogSection {
+    min-height: 200px;
+    background-color: #5d5e61;
+    margin-top: -25px;
+}
+
+.BlogsectionWrapper {
+    width: 90%;
+    background-color: #fff;
+    min-height: 320px;
+    position: absolute;
+    margin: auto;
+    left: 5%;
+    margin-top: -120px;
+}
+
+
+
+.blogPostWrapper {
+    width: 250px;
+    height: 120px;
+    float: left;
+    margin: 3px;
+}
+
+.InnerblogPostWrapper {
+    width: 250px;
+    height: 100px;
+    background-color: white;
+    margin: auto;
+}
+
+.indexBlogPostTitle a {
+    text-decoration: none;
+    color: #5bc2c5;
+}
+
+
+.indexBlogPostTitle {
+    color: #53c0d6;
+}
+
+.indexBlogPostContent {
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.blogPost {
+    width: 90%;
+    margin: auto;
+}
+/* Blog style start here */ 
+
+
+/* get involved section style end here */ 
+
+/* Footer style start here */ 
+
+.footerSection{
+    height: 200px;
+}
+
+.footerWrapper p {
+    margin: auto;
+    text-align: center;
+    color: #ddd;
+    padding-top: 20px;
+}
+
+.footerWrapper p a {
+    font-family: 'Lato', sans-serif;
+    list-style-type: none;
+    color: #55bdc1;
+    text-decoration: none;
+}
+
+.footerSection {
+    height: 150px;
+    background-color: #454850;
+}
+
+.footerWrapper {
+    width: 70%;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.socialIcon {
+    border-bottom: 1px solid #5B5E69;
+}
+
+.socialIconWrapper {
+    margin: auto;
+    width: 110px;
+    height: 30px;
+    padding: 10px;
+}
+
+.facebookIcon{
+    width:20px; 
+   height:20px; 
+   background:url(../images/facebook.png) center center no-repeat; 
+
+}
+
+.twitterIcon{
+    width:20px; 
+   height:20px; 
+   background:url(../images/twitter.png) center center no-repeat; 
+
+}
+
+.googleplusIcon{
+   width:20px; 
+   height:20px; 
+   background:url(../images/googlePlus.png) center center no-repeat; 
+
+}
+
+.socialIconlist {
+    float: left;
+    padding: 7px;
+}
+
+/* Footer style end here */ 
+
+
+/* smart device style start here */ 
+
+@media screen and (min-width:501px) and (max-width:999px) {
+   /* Tablet styles */
+
+        .mainMenu {
+            float: left;
+    }
+
+         .bannerText {
+        font-family: 'Lato', sans-serif;
+        text-align: center;
+        color: #fff;
+        width: 100%;
+        margin: auto;
+        padding-bottom: 20px;
+    } 
+
+    .bannerHeading {
+        font-family: 'Lato', sans-serif;
+        color: #fff;
+        text-align: center;
+        padding-top: 50px;
+        font-size: 30px;
+        text-transform: uppercase;
+        font-weight: normal;
+    } 
+
+    .HextEventSection {
+        width: 100%;
+        float: left;
+    }
+
+    .registerSection {
+        margin-top: 6px;
+        width: auto;
+        text-align: center;
+    }
+
+    .section1.dateSection {
+        height: 170px;
+        background: #f1f2f5;
+    }
+
+    .groupSectionInRapper {
+        width: auto;
+        float: none;
+    }
+
+    .HextEventSectionStreet {
+        text-align: center;
+    }
+
+    .groupSection {
+            width: 100%;
+            margin: auto;
+            height: 900px;
+            margin-top: 50px;
+        }
+
+    
+
+        .section3.missionMember {
+            height: auto;
+            background: #f1f2f5;
+        }
+
+        .missionSec {
+            width: auto;
+            height: auto;
+            float: none;
+        }
+
+        .ourMemberLogo {
+            width: auto;
+            height: 100px;
+            float: none;
+            margin: auto;
+        }
+
+        .ourMemberRapper {
+            height: 700px;
+            width: auto;
+        }
+
+        .BlogsectionWrapper {
+            width: 90%;
+            background-color: #fff;
+            height: 1000px;
+            position: absolute;
+            margin: auto;
+            left: 5%;
+            margin-top: 20px;
+}
+
+        .missiondiv {
+            width: 350px;
+            background: #fff;
+            height: auto;
+            margin: auto;
+            border-radius: 10px;
+            margin-top: -40px;
+        }
+
+        .missionMemberRapper {
+            height: auto;
+        }
+
+        .blogSection {
+            height: auto;
+            background-color: #5d5e61;
+            margin-top: -25px;
+        }
+
+        .ourMember {
+            width: auto;
+            margin: auto;
+            height: auto;
+            margin-top: 50px;
+        }
+
+        .MissionRapper {
+            width: auto;
+            margin: auto;
+        }
+ 
+
+        .blogSection {
+            height: 900px;
+            background-color: #5d5e61;
+            margin-top: -25px;
+        }
+
+        .blogPost {
+            width: 90%;
+            margin: auto;
+        }
+
+        .InnerblogPostWrapper {
+            width: auto;
+            height: 100px;
+            background-color: white;
+            margin: auto;
+        }
+
+        .blogPostWrapper {
+            width: auto;
+            height: 200px;
+            margin: 7px;
+        }
+
+        #top {
+            width: auto;
+            margin: auto;
+            height: 60px;
+        }
+
+        .HextEventSectionDate {
+            text-align: center;
+        }
+
+        .registerSection {
+            width: 100%;
+            float: none;
+            margin-top: 6px;
+        }
+
+        .registerBtn {
+            text-align: center;
+            float: none;
+        }
+
+        .dateSectionWrapper {
+            padding-top: 30px;
+            width: auto;
+            margin: auto;
+        }
+
+        .BlogsectionWrapper {
+            width: 90%;
+            background-color: #fff;
+            height: 1000px;
+            position: absolute;
+            margin: auto;
+            left: 5%;
+            margin-top: -120px;
+        }
+
+        .banner {
+            background: url(../images/banner.png) no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+            margin-top: 60px;
+        }
+
+        #logo {
+            float: left;
+            margin-top: 10px;
+        }
+
+
+}
+/* smart device style end here */ 
